@@ -95,7 +95,6 @@ Currently, the main subpackages are:
    with/without WebGL, and others). Relatively stable API.
 -  **gloo**: a Pythonic, object-oriented interface to OpenGL. Relatively
    stable API.
--  **mpl\_plot**: an OpenGL backend for matplotlib. Experimental.
 -  **scene**: this is the system underlying our upcoming high level
    visualization interfaces. Under heavy development and still
    experimental, it contains several modules.
